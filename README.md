@@ -4,6 +4,6 @@
 ![coverage](https://img.shields.io/codeclimate/coverage/bamdadsabbagh/memaudio-org--www)
 ![snyk](https://img.shields.io/snyk/vulnerabilities/github/bamdadsabbagh/memaudio-org--www)
 
-<img alt="logo" width="5px" src="https://i.imgur.com/FpnyKo3.png">
+
 
 Audio memory game
