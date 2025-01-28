@@ -7,9 +7,6 @@
     "email": "hi@bamdad.fr",
     "url": "https://bamdad.fr"
   },
-    "engines": {
-    "node": "16.x"
-  },
   "scripts": {
     "build": "next build && yarn build:post",
     "build:post": "yarn build:post:remove-source-maps && yarn build:post:build-sitemap",
